@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/project-links/vercel-deployments-index.html" }
+  ]
+}
